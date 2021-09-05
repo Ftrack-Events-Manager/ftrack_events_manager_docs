@@ -1,0 +1,15 @@
+{
+  "name": "ftrack_events_manager_docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Ftrack-Events-Manager/ftrack_events_manager_docs.git",
+  "author": "liaokongVFX <568250549@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.25"
+  },
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
