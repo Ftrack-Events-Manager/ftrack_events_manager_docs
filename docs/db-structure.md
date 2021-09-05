@@ -1,3 +1,8 @@
+---
+lang: zh-CN
+title: Ftrack Events Manager 数据库储存信息结构
+---
+
 # 数据库储存信息结构
 ## EventsLogs
 ```json5

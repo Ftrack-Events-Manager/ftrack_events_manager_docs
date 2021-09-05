@@ -10,7 +10,10 @@ module.exports = {
                 link: '/'
             }, {
                 text: '事件编写',
-                link: '/eventWrite'
+                link: '/event-write'
+            },{
+                text:'数据库储存信息结构',
+                link: '/db-structure'
             }
         ]
     },
