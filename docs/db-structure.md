@@ -20,7 +20,6 @@ title: Ftrack Events Manager 数据库储存信息结构
 ```
 
 ## EventsInfos
-和事件组同级的事件就是未被使用的事件，否则会被加到对应的事件组的events字段里
 ```json5
 [
   // 事件组类型
