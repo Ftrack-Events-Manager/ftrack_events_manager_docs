@@ -60,7 +60,7 @@ if __name__ == '__main__':
 ## 调试多个文件
 只需要在需要运行的文件中设置```DEBUG=True```,然后运行```ftrack_events_helper.events_test_server.py```文件即可。
 
-::: 警告
+::: tip
 如果所有文件都不设置```DEBUG=True```,那么```ftrack_events_helper.events_test_server.py```会加载所有事件。
 :::
 
