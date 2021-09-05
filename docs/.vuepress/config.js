@@ -2,7 +2,7 @@ module.exports = {
     lang: 'zh-CN',
     title: 'Ftrack Events Manager 帮助文档',
     lineNumbers: true,
-    base:'ftrack_events_manager_docs',
+    base: './',
     themeConfig: {
         sidebar: [
             {
