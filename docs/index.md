@@ -9,4 +9,7 @@ Ftrack Events Manager 主要用于帮助用户方便的管理服务器上的事�
 
 # 技术栈
 前端：基于 React 的 Umi.js + Antd 前端组件库
+
 后端：基于 Python 3.8 的 Flask 微型Python框架
+
+数据库：Mongodb

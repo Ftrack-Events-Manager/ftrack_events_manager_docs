@@ -77,3 +77,6 @@ def test1(session, event):
 if __name__ == '__main__':
     run_test_server()
 ```
+
+# 事件范例
+[https://github.com/Ftrack-Events-Manager/ftrack_events_examples](https://github.com/Ftrack-Events-Manager/ftrack_events_examples)
