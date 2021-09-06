@@ -10,6 +10,6 @@
   },
   "scripts": {
     "start": "vuepress dev docs",
-    "build": "vuepress build docs --no-cache"
+    "build": "vuepress build docs"
   }
 }
