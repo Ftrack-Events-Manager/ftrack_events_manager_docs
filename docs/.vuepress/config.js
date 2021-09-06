@@ -11,8 +11,17 @@ module.exports = {
                 text: '首页',
                 link: '/'
             }, {
+                text: '配置',
+                link: '/config'
+            }, {
                 text: '事件编写',
                 link: '/event-write'
+            }, {
+                text: 'DEBUG模式',
+                link: '/debug'
+            }, {
+                text: '使用管理系统',
+                link: '/use'
             }, {
                 text: '数据库储存信息结构',
                 link: '/db-structure'
